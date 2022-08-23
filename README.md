@@ -75,7 +75,7 @@
 
 ## ❤ Views and Followers
 
-<a href="https://github.com/Meghna-DAS/github-profile-views-counter">
+<a href="https://github.com/JohnJerome13">
     <img src="https://komarev.com/ghpvc/?username=JohnJerome13">
 </a>
 <a href="https://github.com/JohnJerome13?tab=followers"><img src="https://img.shields.io/github/followers/JohnJerome13?label=Followers&style=social" alt="GitHub Badge"></a>

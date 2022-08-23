@@ -1,4 +1,4 @@
-<a href="#"><img width="100%" height="auto" src="undraw_coding_re_iv62.svg" height="175px"/></a>
+<div align="center"><a href="#"><img width="50%" height="auto" src="undraw_coding_re_iv62.svg" height="175px"/></a></div>
 
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Jerome</h1>
 <h3 align="center">I'm a passionate Front-end Developer from Philippines.</h3>

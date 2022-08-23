@@ -50,15 +50,15 @@
 ## 📊 My Github Stats
 
   <br/>
-    <a href="https://github.com/JohnJerome13/github-readme-stats"><img alt="John Jerome Perez's Github Stats" src="https://github-readme-stats.vercel.app/api?username=JohnJerome13&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=151515&title_color=b4957c&icon_color=b4957c" /></a>
-  <a href="https://github.com/JohnJerome13/github-readme-stats"><img alt="John Jerome Perez's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JohnJerome13&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=151515&title_color=b4957c" /></a>
+    <a href="https://github.com/JohnJerome13/github-readme-stats"><img alt="John Jerome Perez's Github Stats" src="https://github-readme-stats.vercel.app/api?username=JohnJerome13&show_icons=true&count_private=true&theme=react&bg_color=151515&title_color=b4957c&icon_color=b4957c&border_color=b4957c" /></a>
+  <a href="https://github.com/JohnJerome13/github-readme-stats"><img alt="John Jerome Perez's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JohnJerome13&langs_count=8&count_private=true&layout=compact&theme=react&bg_color=151515&title_color=b4957c&border_color=b4957c" /></a>
   <br/>
   <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
 
 <br/>
 <br/>
 
-<a href="https://github.com/JohnJerome13/github-readme-activity-graph"><img alt="John Jerome Perez's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=JohnJerome13&bg_color=151515&color=b4957c&line=b4957c&point=FFFFFF&hide_border=true" /></a>
+<a href="https://github.com/JohnJerome13/github-readme-activity-graph"><img alt="John Jerome Perez's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=JohnJerome13&bg_color=151515&color=b4957c&line=b4957c&point=FFFFFF&border_color=b4957c" /></a>
 
 <br/>
 <br/>
